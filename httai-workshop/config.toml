@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://boisterous-tiramisu-e91c33.netlify.app/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
