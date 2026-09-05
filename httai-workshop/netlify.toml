@@ -1,13 +1,9 @@
 [build]
-  # Thư mục gốc chứa mã nguồn Hugo
   base = "httai-workshop"
-  # Lệnh biên dịch trang web Hugo
   command = "hugo --minify"
-  # Thư mục chứa kết quả xuất ra sau khi build
-  publish = "httai-workshop/public"
+  publish = "public"
 
 [build.environment]
-  # Khai báo phiên bản Hugo sử dụng
   HUGO_VERSION = "0.134.3"
 
 [context.production.environment]
