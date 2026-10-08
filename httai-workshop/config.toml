@@ -1,4 +1,4 @@
-baseURL = "taihoang1111.netlify.app"
+baseURL = "https://taihoang1111.netlify.app/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
