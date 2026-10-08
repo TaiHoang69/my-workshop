@@ -10,48 +10,29 @@ pre: " <b> 1.1. </b> "
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen với chương trình thực tập FCAJ và môi trường làm việc.
+* Tìm hiểu các khái niệm cơ bản về điện toán đám mây.
+* Tìm hiểu các nhóm dịch vụ chính của AWS.
+* Làm quen với AWS Management Console và AWS CLI.
+* Chuẩn bị môi trường làm việc trên AWS.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2026   | 11/08/2026      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2026   | 12/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2026   | 13/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2026   | 15/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2026   | 15/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+|---|---|---|---|
+| 1 | - Làm quen với các thành viên FCAJ và chương trình thực tập.<br>- Tìm hiểu nội quy, quy trình làm việc và yêu cầu của chương trình. | 08/08/2026 | 08/08/2026 |
+| 2 | - Tìm hiểu khái niệm Cloud Computing.<br>- Tìm hiểu IaaS, PaaS và SaaS.<br>- Tìm hiểu AWS Region, Availability Zone và cơ sở hạ tầng toàn cầu của AWS. | 09/08/2026 | 09/08/2026 |
+| 3 | - Tìm hiểu các nhóm dịch vụ AWS:<br>+ Compute<br>+ Storage<br>+ Networking<br>+ Database<br>+ Security<br>+ Monitoring | 10/08/2026 | 10/08/2026 |
+| 4 | - Tạo và cấu hình tài khoản AWS.<br>- Làm quen với AWS Management Console.<br>- Tìm hiểu kiến thức cơ bản về IAM. | 11/08/2026 | 11/08/2026 |
+| 5 | - Cài đặt và cấu hình AWS CLI.<br>- Thực hành một số lệnh AWS CLI cơ bản.<br>- Kiểm tra thông tin tài khoản và tài nguyên AWS bằng CLI. | 12/08/2026 | 12/08/2026 |
+| 6 | - Ôn tập kiến thức AWS cơ bản.<br>- Thực hành tạo và xóa một số tài nguyên AWS đơn giản.<br>- Tổng hợp kiến thức đã học trong tuần. | 13/08/2026 | 14/08/2026 |
 
 ### Kết quả đạt được tuần 1:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
+* Hiểu được các khái niệm cơ bản về Cloud Computing.
+* Làm quen với cơ sở hạ tầng toàn cầu của AWS.
+* Phân biệt được các nhóm dịch vụ chính của AWS.
+* Làm quen với AWS Management Console.
+* Cài đặt và sử dụng được AWS CLI.
+* Nắm được kiến thức cơ bản về IAM và bảo mật tài khoản AWS.
 

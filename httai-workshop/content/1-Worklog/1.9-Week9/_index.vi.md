@@ -10,48 +10,27 @@ pre: " <b> 1.9. </b> "
 
 ### Mục tiêu tuần 9:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Tìm hiểu Git và GitHub.
+* Tìm hiểu quy trình CI/CD.
+* Kết nối quản lý mã nguồn với quy trình triển khai AWS.
+* Tự động hóa quá trình Build, Test và Deploy.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2026   | 11/08/2026      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2026   | 12/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2026   | 13/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2026   | 15/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2026   | 15/08/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+|---|---|---|---|
+| 1 | Ôn tập Git và các thao tác quản lý Repository. | 03/10/2026 | 03/10/2026 |
+| 2 | Tạo và tổ chức Project Repository trên GitHub. | 04/10/2026 | 04/10/2026 |
+| 3 | Tìm hiểu khái niệm CI/CD và quy trình Deployment Pipeline. | 05/10/2026 | 05/10/2026 |
+| 4 | Cấu hình các bước Build và Test tự động. | 06/10/2026 | 06/10/2026 |
+| 5 | Cấu hình triển khai từ GitHub lên AWS. | 07/10/2026 | 08/10/2026 |
+| 6 | Kiểm tra quá trình tự động triển khai sau khi thay đổi mã nguồn. | 09/10/2026 | 09/10/2026 |
 
 ### Kết quả đạt được tuần 9:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
+* Sử dụng Git và GitHub để quản lý mã nguồn.
+* Hiểu quy trình CI/CD.
+* Xây dựng được Deployment Pipeline cơ bản.
+* Kết nối GitHub với quá trình triển khai ứng dụng lên AWS.
+* Kiểm tra được quá trình tự động Deploy khi mã nguồn thay đổi.
 

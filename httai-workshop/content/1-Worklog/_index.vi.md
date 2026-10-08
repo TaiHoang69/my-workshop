@@ -6,33 +6,30 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
+Trong chương trình thực tập FCAJ, tôi đã thực hiện worklog trong thời gian 12 tuần, bắt đầu từ ngày 08/08/2026. Trong thời gian này, tôi từng bước tìm hiểu các kiến thức nền tảng về AWS, thực hành các dịch vụ AWS, triển khai ứng dụng trên môi trường Cloud và xây dựng quy trình CI/CD.
 
+Các nội dung công việc trong 12 tuần được phân chia như sau:
 
-**Trong trang này** bạn sẽ cần giới thiệu worklog của bạn **như thế nào**? Bạn hoàn thành chương trình trong vòng **bao nhiêu tuần**? Bạn **đã làm gì** trong các tuần đó?
+**Tuần 1:** [Làm quen với AWS và các dịch vụ AWS cơ bản](1.1-week1/)
 
+**Tuần 2:** [Tìm hiểu IAM, VPC và Networking](1.2-week2/)
 
-Thông thường và cũng là tiêu chuẩn, một worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
+**Tuần 3:** [Tìm hiểu và thực hành Amazon EC2](1.3-week3/)
 
-**Tuần 1:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.1-week1/)
+**Tuần 4:** [Tìm hiểu Amazon S3 và CloudFront](1.4-week4/)
 
-**Tuần 2:** [Làm công việc A...](1.2-week2/)
+**Tuần 5:** [Tìm hiểu Amazon RDS và Database](1.5-week5/)
 
-**Tuần 3:** [Làm công việc B...](1.3-week3/)
+**Tuần 6:** [Triển khai Backend Application trên AWS](1.6-week6/)
 
-**Tuần 4:** [Làm công việc C...](1.4-week4/)
+**Tuần 7:** [Triển khai Frontend và tích hợp hệ thống](1.7-week7/)
 
-**Tuần 5:** [Làm công việc D...](1.5-week5/)
+**Tuần 8:** [Tìm hiểu Docker và Amazon ECS](1.8-week8/)
 
-**Tuần 6:** [Làm công việc E...](1.6-week6/)
+**Tuần 9:** [Tìm hiểu GitHub và xây dựng CI/CD Pipeline](1.9-week9/)
 
-**Tuần 7:** [Làm công việc G...](1.7-week7/)
+**Tuần 10:** [Tích hợp hệ thống và thực hành bảo mật AWS](1.10-week10/)
 
-**Tuần 8:** [Làm công việc H...](1.8-week8/)
+**Tuần 11:** [Tìm hiểu CloudWatch và giám sát hệ thống](1.11-week11/)
 
-**Tuần 9:** [Làm công việc I...](1.9-week9/)
-
-**Tuần 10:** [Làm công việc L...](1.10-week10/)
-
-**Tuần 11:** [Làm công việc M...](1.11-week11/)
-
-**Tuần 12:** [Làm công việc N...](1.12-week12/)
+**Tuần 12:** [Hoàn thiện hệ thống, kiểm thử, tối ưu và tổng kết quá trình thực tập.](1.12-week12/)
