@@ -10,27 +10,19 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
-* Tìm hiểu Amazon EC2.
-* Biết cách tạo và quản lý máy chủ ảo.
-* Thực hành kết nối đến EC2.
-* Tìm hiểu AMI, EBS, Elastic IP và Security Group.
+- Thiết kế môi trường mạng Amazon VPC cho ứng dụng.
+- Cấu hình mạng con, bảng định tuyến và các quy tắc truy cập cần thiết.
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-|---|---|---|---|
-| 1 | Tìm hiểu khái niệm EC2 và các loại Instance. | 22/08/2026 | 22/08/2026 |
-| 2 | Tìm hiểu AMI, EBS và vòng đời của EC2 Instance. | 23/08/2026 | 23/08/2026 |
-| 3 | Tạo EC2 Instance và cấu hình Security Group. | 24/08/2026 | 24/08/2026 |
-| 4 | Kết nối đến EC2 bằng SSH.<br>- Cài đặt các phần mềm cần thiết. | 25/08/2026 | 25/08/2026 |
-| 5 | Cấu hình Elastic IP và EBS.<br>- Thực hành Start, Stop và Terminate Instance. | 26/08/2026 | 27/08/2026 |
-| 6 | Triển khai một Web Service đơn giản trên EC2. | 28/08/2026 | 28/08/2026 |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+| --- | --- | --- | --- |
+| 2–3 | Tạo VPC, mạng con công khai và mạng con riêng tư theo sơ đồ kiến trúc. | 24/08/2026 | 25/08/2026 |
+| 4–5 | Cấu hình Internet Gateway, bảng định tuyến và kiểm tra đường truy cập mạng cho máy chủ EC2. | 26/08/2026 | 27/08/2026 |
+| 6 | Thiết lập Security Group cho EC2 và RDS, chỉ cho phép những kết nối cần thiết giữa các thành phần. | 28/08/2026 | 28/08/2026 |
 
 ### Kết quả đạt được tuần 3:
 
-* Tạo và cấu hình thành công EC2 Instance.
-* Kết nối được đến EC2 bằng SSH.
-* Thực hành AMI và EBS.
-* Cấu hình Security Group và Elastic IP.
-* Triển khai được một Web Service cơ bản trên EC2.
+- Hình thành môi trường mạng VPC với mạng con phục vụ EC2 và các mạng con riêng tư dành cho RDS.
+- Xác định được quy tắc truy cập Internet đến máy chủ ứng dụng và quy tắc kết nối nội bộ từ EC2 đến RDS.
 

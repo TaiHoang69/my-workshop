@@ -8,28 +8,20 @@ pre: " <b> 1.6. </b> "
 
 
 
-### Week 6 Objectives:
+### Objectives for Week 6:
 
-* Understand backend deployment on AWS.
-* Deploy a backend application on EC2.
-* Connect backend, database and S3.
-* Understand environment configuration.
+- Configure Amazon S3 for frontend files and product images.
+- Set up appropriate access controls for stored resources.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Review backend architecture and deployment requirements. | 12/09/2026 | 12/09/2026 |
-| 2 | Prepare backend application for deployment. | 13/09/2026 | 13/09/2026 |
-| 3 | Deploy backend application to EC2. | 14/09/2026 | 14/09/2026 |
-| 4 | Configure environment variables and application settings. | 15/09/2026 | 15/09/2026 |
-| 5 | Connect backend with RDS and S3.<br>- Test API endpoints. | 16/09/2026 | 17/09/2026 |
-| 6 | Troubleshoot deployment issues and document the process. | 18/09/2026 | 18/09/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Create S3 buckets for the compiled frontend assets and product images. | 14/09/2026 | 15/09/2026 |
+| Wed–Thu | Configure bucket access policies, protect stored data, and prepare EC2 access where required. | 16/09/2026 | 17/09/2026 |
+| Fri | Receive the ReactJS build from the frontend developer, upload the files to S3, and verify the storage layout. | 18/09/2026 | 18/09/2026 |
 
-### Week 6 Achievements:
+### Results achieved in Week 6:
 
-* Successfully deployed a backend application on EC2.
-* Connected the backend to RDS.
-* Integrated S3 for image/file storage.
-* Tested backend API functionality.
-* Improved understanding of application configuration and deployment.
+- Prepared S3 buckets for the ReactJS frontend and product images.
+- Organized access permissions and S3 objects for delivery through CloudFront.

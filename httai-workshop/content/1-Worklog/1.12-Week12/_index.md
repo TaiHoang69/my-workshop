@@ -8,29 +8,20 @@ pre: " <b> 1.12. </b> "
 
 
 
-### Week 12 Objectives:
+### Objectives for Week 12:
 
-* Complete the AWS application deployment.
-* Perform final testing.
-* Review the complete architecture.
-* Document the internship project and lessons learned.
+- Review the end-to-end AWS deployment.
+- Prepare workshop documentation, screenshots, and resource-cleanup steps.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Review the complete system architecture. | 24/10/2026 | 24/10/2026 |
-| 2 | Perform functional testing for frontend and backend. | 25/10/2026 | 25/10/2026 |
-| 3 | Test database and image/file storage functionality. | 26/10/2026 | 26/10/2026 |
-| 4 | Test CI/CD deployment and monitoring functionality. | 27/10/2026 | 27/10/2026 |
-| 5 | Fix remaining issues and optimize the deployment. | 28/10/2026 | 29/10/2026 |
-| 6 | Document the final architecture, implementation process and internship achievements. | 30/10/2026 | 30/10/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Recheck website delivery through CloudFront, APIs on EC2, RDS MySQL, and images on S3. | 26/10/2026 | 27/10/2026 |
+| Wed–Thu | Review IAM, Security Groups, CloudWatch logs, and active AWS resources; address remaining configuration issues. | 28/10/2026 | 29/10/2026 |
+| Fri | Collect screenshots, the architecture diagram, test evidence, and cleanup instructions for temporary resources in the workshop documentation. | 30/10/2026 | 30/10/2026 |
 
-### Week 12 Achievements:
+### Results achieved in Week 12:
 
-* Completed the AWS-based application deployment.
-* Verified frontend, backend, database and storage functionality.
-* Completed CI/CD and monitoring integration.
-* Performed final system testing.
-* Documented the system architecture and deployment process.
-* Consolidated the knowledge and practical skills gained throughout the internship.
+- Completed a review of AWS infrastructure components and the application’s main integration flow.
+- Prepared deployment, validation, and resource-cleanup instructions for the individual workshop section.

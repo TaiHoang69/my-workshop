@@ -8,30 +8,20 @@ pre: " <b> 1.1. </b> "
 
 
 
-### Week 1 Objectives:
+### Objectives for Week 1:
 
-* Become familiar with the FCAJ internship program and working environment.
-* Understand fundamental cloud computing concepts.
-* Learn the main categories of AWS services.
-* Become familiar with AWS Management Console and AWS CLI.
-* Prepare the AWS development environment.
+- Understand the project scope and assigned AWS infrastructure responsibilities.
+- Become familiar with the AWS services and draft the deployment architecture.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | - Get acquainted with FCAJ members and internship activities.<br>- Understand internship rules, working procedures and expected outcomes. | 08/08/2026 | 08/08/2026 |
-| 2 | - Study cloud computing concepts.<br>- Learn about IaaS, PaaS and SaaS.<br>- Learn about AWS Regions, Availability Zones and global infrastructure. | 09/08/2026 | 09/08/2026 |
-| 3 | - Explore major AWS service categories:<br>+ Compute<br>+ Storage<br>+ Networking<br>+ Database<br>+ Security<br>+ Monitoring | 10/08/2026 | 10/08/2026 |
-| 4 | - Create and configure an AWS account.<br>- Explore AWS Management Console.<br>- Learn AWS IAM basics. | 11/08/2026 | 11/08/2026 |
-| 5 | - Install and configure AWS CLI.<br>- Practice basic AWS CLI commands.<br>- Verify AWS account and resource information using CLI. | 12/08/2026 | 12/08/2026 |
-| 6 | - Review AWS fundamentals.<br>- Practice creating and deleting basic AWS resources.<br>- Document the knowledge gained during the week. | 13/08/2026 | 14/08/2026 |
+| --- | --- | --- | --- |
+| Sat | Review the project scope, team assignments, and AWS services under my responsibility. | 08/08/2026 | 08/08/2026 |
+| Mon–Wed | Explore AWS Management Console, Regions, AWS CLI, and the Compute, Storage, Networking, and Database service categories. | 10/08/2026 | 12/08/2026 |
+| Thu–Fri | Outline the deployment flow: frontend on S3 and CloudFront, Spring Boot on EC2, MySQL on RDS, and images on S3. | 13/08/2026 | 14/08/2026 |
 
-### Week 1 Achievements:
+### Results achieved in Week 1:
 
-* Understood fundamental cloud computing concepts.
-* Became familiar with AWS global infrastructure.
-* Identified the main categories of AWS services.
-* Successfully configured the AWS Management Console.
-* Installed and configured AWS CLI.
-* Gained basic knowledge of IAM and AWS account security.
+- Understood the basic AWS service categories, AWS Management Console navigation, and the role of AWS CLI.
+- Prepared a preliminary AWS architecture and a list of resources to provision.

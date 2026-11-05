@@ -10,27 +10,18 @@ pre: " <b> 1.7. </b> "
 
 ### Mục tiêu tuần 7:
 
-* Triển khai Frontend lên AWS.
-* Kết nối Frontend với Backend API.
-* Tích hợp Frontend, Backend, Database và Storage.
-* Hiểu kiến trúc tổng thể của ứng dụng trên AWS.
+- Triển khai Amazon CloudFront để phân phối giao diện website.
+- Kiểm tra khả năng truy cập và tải các tài nguyên tĩnh.
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-|---|---|---|---|
-| 1 | Chuẩn bị mã nguồn Frontend cho môi trường Production. | 19/09/2026 | 19/09/2026 |
-| 2 | Build Frontend Application. | 20/09/2026 | 20/09/2026 |
-| 3 | Upload các file Frontend lên S3. | 21/09/2026 | 21/09/2026 |
-| 4 | Cấu hình CloudFront cho Frontend. | 22/09/2026 | 22/09/2026 |
-| 5 | Cấu hình Frontend kết nối với Backend API.<br>- Kiểm tra các API Request. | 23/09/2026 | 24/09/2026 |
-| 6 | Kiểm tra toàn bộ quy trình hoạt động của ứng dụng. | 25/09/2026 | 25/09/2026 |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+| --- | --- | --- | --- |
+| 2–3 | Tạo CloudFront Distribution với S3 làm nguồn dữ liệu giao diện và thiết lập quyền truy cập nguồn phù hợp. | 21/09/2026 | 22/09/2026 |
+| 4–5 | Thiết lập trang mặc định, xử lý đường dẫn của ứng dụng ReactJS và kiểm tra hoạt động của bộ nhớ đệm. | 23/09/2026 | 24/09/2026 |
+| 6 | Truy cập website bằng tên miền CloudFront và kiểm tra giao diện, tệp tĩnh cùng hình ảnh mẫu. | 25/09/2026 | 25/09/2026 |
 
 ### Kết quả đạt được tuần 7:
 
-* Triển khai thành công Frontend trên S3.
-* Cấu hình CloudFront để phân phối Frontend.
-* Kết nối Frontend với Backend API.
-* Tích hợp Frontend, Backend, Database và Image Storage.
-* Hoàn thành kiểm thử ứng dụng theo quy trình End-to-End cơ bản.
-
+- Có đường dẫn CloudFront phục vụ giao diện ứng dụng từ S3.
+- Kiểm tra được việc phân phối các tệp tĩnh và chuẩn bị tích hợp với API Backend.

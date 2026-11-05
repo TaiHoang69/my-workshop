@@ -10,27 +10,19 @@ pre: " <b> 1.10. </b> "
 
 ### Mục tiêu tuần 10:
 
-* Hoàn thiện việc tích hợp các thành phần của hệ thống.
-* Ôn tập các kiến thức về bảo mật AWS.
-* Kiểm tra kết nối giữa các thành phần.
-* Phát hiện và xử lý các lỗi trong quá trình triển khai
+- Hoàn thiện cơ chế lưu trữ và phân phối hình ảnh sản phẩm.
+- Kiểm tra quyền truy cập và các trường hợp hình ảnh không hiển thị.
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-|---|---|---|---|
-| 1 | Xem xét lại kiến trúc AWS của toàn bộ hệ thống. | 10/10/2026 | 10/10/2026 |
-| 2 | Kiểm tra IAM Role và Permission. | 11/10/2026 | 11/10/2026 |
-| 3 | Kiểm tra Security Group và Network Access. | 12/10/2026 | 12/10/2026 |
-| 4 | Kiểm tra quyền truy cập S3 và quyền của ứng dụng. | 13/10/2026 | 13/10/2026 |
-| 5 | Kiểm thử tích hợp giữa Frontend, Backend, RDS và S3. | 14/10/2026 | 15/10/2026 |
-| 6 | Xử lý các lỗi phát hiện được và cải thiện độ ổn định của hệ thống. | 16/10/2026 | 16/10/2026 |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+| --- | --- | --- | --- |
+| 2–3 | Rà soát bucket hình ảnh, đường dẫn đối tượng và quyền IAM dành cho ứng dụng trên EC2. | 12/10/2026 | 13/10/2026 |
+| 4–5 | Kiểm tra khả năng tải lên, đọc và hiển thị hình ảnh thông qua luồng ứng dụng đã được nhóm tích hợp. | 14/10/2026 | 15/10/2026 |
+| 6 | Điều chỉnh quyền truy cập S3 và cấu hình phân phối ảnh qua CloudFront; kiểm tra các trường hợp ảnh lỗi. | 16/10/2026 | 16/10/2026 |
 
 ### Kết quả đạt được tuần 10:
 
-* Hoàn thiện việc tích hợp các thành phần chính của hệ thống.
-* Củng cố kiến thức về bảo mật trên AWS.
-* Kiểm tra IAM Permission và Security Group.
-* Thực hiện kiểm thử End-to-End.
-* Xử lý các lỗi liên quan đến cấu hình và kết nối.
+- Hoàn thiện cấu hình lưu trữ và phân phối hình ảnh sản phẩm bằng S3 và CloudFront.
+- Xác minh quyền đọc hoặc ghi hình ảnh của ứng dụng EC2 theo yêu cầu thực tế.
 

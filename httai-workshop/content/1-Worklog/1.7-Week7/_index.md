@@ -8,28 +8,20 @@ pre: " <b> 1.7. </b> "
 
 
 
-### Week 7 Objectives:
+### Objectives for Week 7:
 
-* Deploy the frontend application on AWS.
-* Connect frontend with backend APIs.
-* Integrate frontend, backend, database and storage.
-* Understand basic application architecture on AWS.
+- Deploy Amazon CloudFront to deliver the website frontend.
+- Verify access to and delivery of static assets.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Prepare frontend source code for production deployment. | 19/09/2026 | 19/09/2026 |
-| 2 | Build the frontend application. | 20/09/2026 | 20/09/2026 |
-| 3 | Deploy frontend files to S3. | 21/09/2026 | 21/09/2026 |
-| 4 | Configure CloudFront for frontend delivery. | 22/09/2026 | 22/09/2026 |
-| 5 | Configure frontend-to-backend communication.<br>- Test API requests. | 23/09/2026 | 24/09/2026 |
-| 6 | Test the complete application workflow. | 25/09/2026 | 25/09/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Create a CloudFront distribution with S3 as the frontend origin and configure appropriate origin access. | 21/09/2026 | 22/09/2026 |
+| Wed–Thu | Configure the default root object, ReactJS client-side routing behavior, and caching. | 23/09/2026 | 24/09/2026 |
+| Fri | Open the website using the CloudFront domain and verify the interface, static assets, and sample images. | 25/09/2026 | 25/09/2026 |
 
-### Week 7 Achievements:
+### Results achieved in Week 7:
 
-* Successfully deployed the frontend on S3.
-* Configured CloudFront for content delivery.
-* Connected frontend with backend APIs.
-* Integrated frontend, backend, database and image storage.
-* Completed the first end-to-end application test
+- Provided a CloudFront URL serving the application frontend from S3.
+- Verified static-file delivery and prepared for backend API integration.

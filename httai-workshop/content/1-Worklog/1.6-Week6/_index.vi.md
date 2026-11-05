@@ -10,26 +10,18 @@ pre: " <b> 1.6. </b> "
 
 ### Mục tiêu tuần 6:
 
-* Tìm hiểu quy trình triển khai Backend trên AWS.
-* Triển khai Backend trên EC2.
-* Kết nối Backend với Database và S3.
-* Tìm hiểu cấu hình môi trường cho ứng dụng.
+- Tạo và cấu hình Amazon S3 phục vụ lưu trữ giao diện và hình ảnh sản phẩm.
+- Thiết lập quyền truy cập thích hợp cho các tài nguyên lưu trữ.
 
 ### Các công việc cần triển khai trong tuần này:
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành |
-|---|---|---|---|
-| 1 | Xem xét kiến trúc Backend và các yêu cầu triển khai. | 12/09/2026 | 12/09/2026 |
-| 2 | Chuẩn bị mã nguồn Backend để triển khai. | 13/09/2026 | 13/09/2026 |
-| 3 | Triển khai Backend Application trên EC2. | 14/09/2026 | 14/09/2026 |
-| 4 | Cấu hình Environment Variables và các thông số ứng dụng. | 15/09/2026 | 15/09/2026 |
-| 5 | Kết nối Backend với RDS và S3.<br>- Kiểm tra các API Endpoint. | 16/09/2026 | 17/09/2026 |
-| 6 | Xử lý các lỗi phát sinh trong quá trình triển khai và ghi lại quy trình. | 18/09/2026 | 18/09/2026 |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành |
+| --- | --- | --- | --- |
+| 2–3 | Tạo các S3 bucket phục vụ mã nguồn giao diện đã biên dịch và hình ảnh sản phẩm. | 14/09/2026 | 15/09/2026 |
+| 4–5 | Thiết lập chính sách truy cập bucket, bảo vệ dữ liệu và chuẩn bị quyền truy cập cho EC2 khi cần. | 16/09/2026 | 17/09/2026 |
+| 6 | Nhận bản build ReactJS để triển khai, tải các tệp lên S3 và kiểm tra cấu trúc lưu trữ. | 18/09/2026 | 18/09/2026 |
 
 ### Kết quả đạt được tuần 6:
 
-* Triển khai thành công Backend trên EC2.
-* Kết nối Backend với RDS.
-* Tích hợp S3 để lưu trữ hình ảnh/tệp tin.
-* Kiểm tra được các API của Backend.
-* Hiểu rõ hơn về cấu hình và triển khai ứng dụng trên AWS.
+- Chuẩn bị được các bucket S3 cho giao diện ReactJS và hình ảnh sản phẩm.
+- Tổ chức quyền truy cập và các tệp trên S3 để sẵn sàng phân phối qua CloudFront.

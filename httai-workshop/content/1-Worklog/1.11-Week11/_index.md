@@ -8,28 +8,20 @@ pre: " <b> 1.11. </b> "
 
 
 
-### Week 11 Objectives:
+### Objectives for Week 11:
 
-* Understand AWS monitoring concepts.
-* Learn Amazon CloudWatch.
-* Monitor application and infrastructure performance.
-* Analyze logs and metrics.
+- Monitor EC2 status and performance with Amazon CloudWatch.
+- Configure basic log collection and alarms.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Study CloudWatch concepts, metrics and logs. | 17/10/2026 | 17/10/2026 |
-| 2 | Monitor EC2/ECS resource utilization. | 18/10/2026 | 18/10/2026 |
-| 3 | Configure application and system logs. | 19/10/2026 | 19/10/2026 |
-| 4 | Create CloudWatch alarms. | 20/10/2026 | 20/10/2026 |
-| 5 | Analyze application performance and troubleshoot issues using logs. | 21/10/2026 | 22/10/2026 |
-| 6 | Review monitoring architecture and document findings. | 23/10/2026 | 23/10/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Monitor EC2 metrics such as CPU utilization and instance status checks in CloudWatch. | 19/10/2026 | 20/10/2026 |
+| Wed–Thu | Configure Spring Boot log collection in CloudWatch Logs and inspect application errors. | 21/10/2026 | 22/10/2026 |
+| Fri | Set up suitable CloudWatch alarms and validate monitoring during test scenarios. | 23/10/2026 | 23/10/2026 |
 
-### Week 11 Achievements:
+### Results achieved in Week 11:
 
-* Understood the role of CloudWatch in AWS monitoring.
-* Collected and analyzed application logs.
-* Monitored infrastructure metrics.
-* Created basic CloudWatch alarms.
-* Used logs and metrics to identify application problems.
+- Enabled server metric monitoring and application-log inspection in CloudWatch.
+- Prepared basic alerting to help detect system issues.

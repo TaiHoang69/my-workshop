@@ -8,28 +8,20 @@ pre: " <b> 1.10. </b> "
 
 
 
-### Week 10 Objectives:
+### Objectives for Week 10:
 
-* Integrate all application components.
-* Review AWS security practices.
-* Improve communication between application components.
-* Identify and resolve deployment issues.
+- Finalize storage and delivery of product images.
+- Verify access permissions and troubleshoot image-loading issues.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Review the complete AWS architecture. | 10/10/2026 | 10/10/2026 |
-| 2 | Review IAM roles and permissions. | 11/10/2026 | 11/10/2026 |
-| 3 | Review security groups and network access. | 12/10/2026 | 12/10/2026 |
-| 4 | Review S3 access and application permissions. | 13/10/2026 | 13/10/2026 |
-| 5 | Perform integration testing between frontend, backend, RDS and S3. | 14/10/2026 | 15/10/2026 |
-| 6 | Fix identified issues and improve application stability. | 16/10/2026 | 16/10/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Review the image bucket, object paths, and IAM permissions granted to the EC2 application. | 12/10/2026 | 13/10/2026 |
+| Wed–Thu | Verify image upload, retrieval, and display through the application flow integrated by the team. | 14/10/2026 | 15/10/2026 |
+| Fri | Refine S3 access permissions and image delivery through CloudFront; check missing-image scenarios. | 16/10/2026 | 16/10/2026 |
 
-### Week 10 Achievements:
+### Results achieved in Week 10:
 
-* Integrated all major components of the application.
-* Improved understanding of AWS security.
-* Reviewed IAM permissions and security groups.
-* Performed end-to-end integration testing.
-* Resolved several configuration and connectivity issues.
+- Finalized product-image storage and delivery using S3 and CloudFront.
+- Verified the EC2 application’s image read/write permissions against actual requirements.

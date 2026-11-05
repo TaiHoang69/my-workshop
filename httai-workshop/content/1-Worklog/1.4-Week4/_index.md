@@ -8,28 +8,20 @@ pre: " <b> 1.4. </b> "
 
 
 
-### Week 4 Objectives:
+### Objectives for Week 4:
 
-* Understand object storage using Amazon S3.
-* Learn how to host static web content.
-* Understand CDN concepts.
-* Deploy frontend content using S3 and CloudFront.
+- Prepare an Amazon EC2 instance for application deployment.
+- Set up the Java environment and verify server administration.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Study S3 buckets, objects and storage classes. | 29/08/2026 | 29/08/2026 |
-| 2 | Create an S3 bucket and configure permissions. | 30/08/2026 | 30/08/2026 |
-| 3 | Upload website files and images to S3. | 31/08/2026 | 31/08/2026 |
-| 4 | Learn Amazon CloudFront and CDN concepts. | 01/09/2026 | 01/09/2026 |
-| 5 | Create a CloudFront distribution for S3.<br>- Configure caching behavior. | 02/09/2026 | 03/09/2026 |
-| 6 | Test frontend access through CloudFront. | 04/09/2026 | 04/09/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Launch an EC2 instance in a public subnet and select an appropriate operating system, instance type, and storage size. | 31/08/2026 | 01/09/2026 |
+| Wed–Thu | Configure the Security Group and administrative access method, then attach the prepared IAM Role. | 02/09/2026 | 03/09/2026 |
+| Fri | Install the Java runtime, prepare deployment directories, and verify that the EC2 instance can run the application. | 04/09/2026 | 04/09/2026 |
 
-### Week 4 Achievements:
+### Results achieved in Week 4:
 
-* Created and configured an S3 bucket.
-* Stored frontend files and images in S3.
-* Understood the relationship between S3 and CloudFront.
-* Successfully deployed a static frontend through CloudFront.
-* Gained practical experience with AWS object storage and CDN.
+- Prepared an EC2 server to receive the packaged Spring Boot application for the deployment environment.
+- Verified server administration and Java execution on EC2.

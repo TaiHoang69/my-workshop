@@ -8,28 +8,20 @@ pre: " <b> 1.5. </b> "
 
 
 
-### Week 5 Objectives:
+### Objectives for Week 5:
 
-* Understand managed relational databases on AWS.
-* Learn Amazon RDS architecture.
-* Connect an application to an RDS database.
-* Understand database security and backup.
+- Provision Amazon RDS MySQL in a private network environment.
+- Verify connectivity from EC2 to RDS.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Study relational databases and Amazon RDS. | 05/09/2026 | 05/09/2026 |
-| 2 | Learn RDS instances, engines, storage and backups. | 06/09/2026 | 06/09/2026 |
-| 3 | Create an RDS database instance. | 07/09/2026 | 07/09/2026 |
-| 4 | Configure database networking and security groups. | 08/09/2026 | 08/09/2026 |
-| 5 | Connect the backend application to RDS.<br>- Create tables and test CRUD operations. | 09/09/2026 | 10/09/2026 |
-| 6 | Test backup and recovery concepts.<br>- Review database security. | 11/09/2026 | 11/09/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Create a DB Subnet Group using private subnets and configure a database Security Group. | 07/09/2026 | 08/09/2026 |
+| Wed–Thu | Provision an Amazon RDS MySQL instance sized for testing and disable public accessibility. | 09/09/2026 | 10/09/2026 |
+| Fri | Test MySQL connectivity from EC2 to RDS and share the required endpoint and connection settings with backend and database team members. | 11/09/2026 | 11/09/2026 |
 
-### Week 5 Achievements:
+### Results achieved in Week 5:
 
-* Understood Amazon RDS architecture.
-* Created and configured an RDS database.
-* Connected an application to RDS.
-* Practiced basic database operations.
-* Understood database networking, security and backup mechanisms.
+- Prepared the RDS MySQL service and network connectivity between EC2 and RDS.
+- Provided a database environment for the team to manage data, develop features, and integrate the application.

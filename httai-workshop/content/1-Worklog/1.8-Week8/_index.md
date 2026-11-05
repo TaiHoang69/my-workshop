@@ -8,28 +8,20 @@ pre: " <b> 1.8. </b> "
 
 
 
-### Week 8 Objectives:
+### Objectives for Week 8:
 
-* Understand containerization.
-* Learn Docker fundamentals.
-* Understand Amazon ECS.
-* Deploy the backend using containers.
+- Deploy the packaged Spring Boot application on EC2.
+- Set up runtime configuration and validate API responses.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date |
-|---|---|---|---|
-| 1 | Study containerization and Docker concepts. | 26/09/2026 | 26/09/2026 |
-| 2 | Create a Dockerfile for the backend application. | 27/09/2026 | 27/09/2026 |
-| 3 | Build and test the Docker image locally. | 28/09/2026 | 28/09/2026 |
-| 4 | Study Amazon ECS and ECS components. | 29/09/2026 | 29/09/2026 |
-| 5 | Deploy the backend container to ECS.<br>- Configure task and service. | 30/09/2026 | 01/10/2026 |
-| 6 | Test application functionality after ECS deployment. | 02/10/2026 | 02/10/2026 |
+| --- | --- | --- | --- |
+| Mon–Tue | Receive the packaged Spring Boot application and prepare its EC2 runtime configuration. | 28/09/2026 | 29/09/2026 |
+| Wed–Thu | Configure environment settings and RDS connectivity; run the application as a server service. | 30/09/2026 | 01/10/2026 |
+| Fri | Check the application process, exposed port, and responses from APIs delivered by the backend developer. | 02/10/2026 | 02/10/2026 |
 
-### Week 8 Achievements:
+### Results achieved in Week 8:
 
-* Understood Docker and container concepts.
-* Created a Docker image for the backend.
-* Learned the basic architecture of Amazon ECS.
-* Successfully deployed a containerized backend.
-* Compared traditional EC2 deployment with container-based deployment.
+- Deployed the Spring Boot application to EC2 and configured its RDS connection.
+- Verified that the backend server could receive and respond to test requests.

@@ -6,30 +6,30 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Trong chương trình thực tập FCAJ, tôi đã thực hiện worklog trong thời gian 12 tuần, bắt đầu từ ngày 08/08/2026. Trong thời gian này, tôi từng bước tìm hiểu các kiến thức nền tảng về AWS, thực hành các dịch vụ AWS, triển khai ứng dụng trên môi trường Cloud và xây dựng quy trình CI/CD.
+Trong 12 tuần, tôi tập trung tìm hiểu các dịch vụ AWS và thực hiện các công việc thuộc phạm vi triển khai hạ tầng cho ứng dụng web bán điện thoại. Quá trình thực hiện bắt đầu bằng việc tìm hiểu nền tảng, thiết kế mạng và phân quyền; tiếp theo là chuẩn bị máy chủ, cơ sở dữ liệu, lưu trữ và phân phối giao diện; cuối cùng là kết nối hệ thống, theo dõi hoạt động và kiểm thử.
 
 Các nội dung công việc trong 12 tuần được phân chia như sau:
 
-**Tuần 1:** [Làm quen với AWS và các dịch vụ AWS cơ bản](1.1-week1/)
+**Tuần 1:** [Làm quen với AWS và xác định kiến trúc triển khai](1.1-week1/)
 
-**Tuần 2:** [Tìm hiểu IAM, VPC và Networking](1.2-week2/)
+**Tuần 2:** [Tìm hiểu và cấu hình AWS IAM](1.2-week2/)
 
-**Tuần 3:** [Tìm hiểu và thực hành Amazon EC2](1.3-week3/)
+**Tuần 3:** [Thiết kế Amazon VPC và các quy tắc mạng](1.3-week3/)
 
-**Tuần 4:** [Tìm hiểu Amazon S3 và CloudFront](1.4-week4/)
+**Tuần 4:** [Chuẩn bị máy chủ Amazon EC2](1.4-week4/)
 
-**Tuần 5:** [Tìm hiểu Amazon RDS và Database](1.5-week5/)
+**Tuần 5:** [Cấu hình Amazon RDS MySQL](1.5-week5/)
 
-**Tuần 6:** [Triển khai Backend Application trên AWS](1.6-week6/)
+**Tuần 6:** [Thiết lập Amazon S3 để lưu trữ giao diện và hình ảnh](1.6-week6/)
 
-**Tuần 7:** [Triển khai Frontend và tích hợp hệ thống](1.7-week7/)
+**Tuần 7:** [Triển khai giao diện bằng Amazon CloudFront](1.7-week7/)
 
-**Tuần 8:** [Tìm hiểu Docker và Amazon ECS](1.8-week8/)
+**Tuần 8:** [Triển khai ứng dụng Spring Boot trên EC2](1.8-week8/)
 
-**Tuần 9:** [Tìm hiểu GitHub và xây dựng CI/CD Pipeline](1.9-week9/)
+**Tuần 9:** [Tích hợp luồng truy cập Frontend, Backend và Database](1.9-week9/)
 
-**Tuần 10:** [Tích hợp hệ thống và thực hành bảo mật AWS](1.10-week10/)
+**Tuần 10:** [Hoàn thiện cấu hình lưu trữ và phân phối hình ảnh](1.10-week10/)
 
-**Tuần 11:** [Tìm hiểu CloudWatch và giám sát hệ thống](1.11-week11/)
+**Tuần 11:** [Giám sát hệ thống bằng Amazon CloudWatch](1.11-week11/)
 
-**Tuần 12:** [Hoàn thiện hệ thống, kiểm thử, tối ưu và tổng kết quá trình thực tập.](1.12-week12/)
+**Tuần 12:** [Kiểm thử tổng thể và tổng hợp nội dung workshop](1.12-week12/)
