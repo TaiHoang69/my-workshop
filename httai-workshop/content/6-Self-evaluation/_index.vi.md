@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** từ **08/08** đến **19/11**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Viet Nam** từ **08/08** đến **14/11**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
 Tôi đã tham gia **triển khai ứng dụng web bán điện thoại trên nền tảng điện toán đám mây AWS**, qua đó cải thiện kỹ năng **triển khai ứng dụng, cấu hình dịch vụ AWS, kiểm thử hệ thống và viết tài liệu kỹ thuật**.  
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.

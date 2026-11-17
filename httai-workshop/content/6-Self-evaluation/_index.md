@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-During my internship at **Công ty TNHH Amazon Web Services Viet Nam** from **August 8** to **November 19**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+During my internship at **Công ty TNHH Amazon Web Services Viet Nam** from **August 8** to **November 14**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
 I participated in **deploying a mobile phone e-commerce web application on the AWS cloud computing platform**, through which I improved my skills in **application deployment, AWS service configuration, system testing, and technical documentation**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
